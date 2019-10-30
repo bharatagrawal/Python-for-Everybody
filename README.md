@@ -11,7 +11,7 @@ In this repository of the specialization "Python for Everybody" by University of
 3. <a href="https://www.coursera.org/learn/python-network-data">Using Python to Access Web Data</a><br />
 4. <a href="https://www.coursera.org/learn/python-databases">Using Databases with Python</a>
 
-## Details on Specialisation
+## Details on Specialization
 This specialisation is by the University of Michigan on Coursera consisting of 4 courses and 1 capstone project.
 
 ### Assignment Answers
