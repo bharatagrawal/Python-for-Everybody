@@ -1,5 +1,5 @@
 # Programming for Everybody (Getting Started with Python)
-This is the repository of quiz answers, assignments and related files from the course "Programming for Everybody (Getting Started with Python)" by University of Michigan on Coursera.
+This is the directory of quiz answers, assignments and related files from the course "Programming for Everybody (Getting Started with Python)" by University of Michigan on Coursera.
 
 Modules have quiz answers and assignment solutions from the chapters.
 
